@@ -8,7 +8,7 @@
 
 ## 2.https(SSL/TLS)
 
-* 2.1 [what is https](/contens/2-1.md)
+* 2.1 [what is https](/contents/2-1.md)
 * 2.2 [use openssl to private CA](/contents/2-2.md) 
 
 ## 3.htpasswd
