@@ -19,11 +19,13 @@
 
 ## 4.the steps of using self-signed certificates and htpasswd to deploy a registry
 
-* 4.1 [step one Generate your own certificate ](/contents/4-1.md)
+* 4.1 [step one: Generate your own certificate ](/contents/4-1.md)
 
-* 4.2 [step two use htpasswd generate usename and passwd file](/contents/4-2.md)
+* 4.2 [step two: use htpasswd generate usename and passwd file](/contents/4-2.md)
 
-* 4.3 [step three write a docker-compose.yml and run ](/contents/4-3.md)       
+* 4.3 [step three: write a docker-compose.yml and run ](/contents/4-3.md)
+
+* 4.4 [step four: use frpc as a proxy ](/contents/4-4.md)
 
 
 
