@@ -15,7 +15,15 @@
 
 * 3.1 [what is htpasswd](/contents/3-1.md)
 
-* 3.2 [how to use in the docker registry](/contnets/3-2.md)
+* 3.2 [how to use in the nginx](/contents/3-2.md)
+
+## 4.the steps of using self-signed certificates and htpasswd to deploy a registry
+
+* 4.1 [step one Generate your own certificate ](/contents/4-1.md)
+
+* 4.2 [step two use htpasswd generate usename and passwd file](/contents/4-2.md)
+
+* 4.3 [step three write a docker-compose.yml and run ](/contents/4-3.md)       
 
 
 
