@@ -29,5 +29,5 @@
 
 ## 5. How to use
 
-* 5.1 [How to use](/contens/5-1.md)
+* 5.1 [How to use](/contents/5-1.md)
 
